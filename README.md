@@ -1,3 +1,7 @@
+## Description
+
+If you are looking for a solution that will convert your big JSON (array of JSON objects) to a CSV/Excel in JS, this is a droid you are looking for. Paste to the input an URL for a JSON and name of the dataset where we will store the records.  You can provide more than 1 URL for the JSON, see input example.  Actor is using our dataset to handle the converting the items, we just simply push items to the dataset and then download the whole dataset. Apify do the magic for us.
+
 ## Code
 ```
 const Apify = require('apify');
