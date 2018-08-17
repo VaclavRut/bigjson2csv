@@ -1,0 +1,25 @@
+{
+	"name": "json2csvCustom",
+	"version": "1.0.0",
+	"description": "The minimum boilerplace of an Apify Actor act",
+	"main": "main.js",
+	"dependencies": {
+		"apify": "^0.5.13",
+		"apify-client": "^0.2.13",
+		"bluebird": "^3.5.1",
+		"fs": "0.0.1-security",
+		"json2csv": "^4.2.1",
+		"request-promise": "^4.2.2"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"author": "",
+	"license": "ISC",
+	"homepage": ""
+}

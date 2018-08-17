@@ -1,0 +1,12 @@
+{
+	"name": "bigjson2csv",
+	"actId": "vaclavrut/bigjson2csv",
+	"version": {
+		"versionNumber": "0.1",
+		"buildTag": "latest",
+		"envVars": [],
+		"sourceType": "TARBALL",
+		"tarballUrl": "https://api.apify.com/v2/key-value-stores/EGzjrL5Zhr87EpFnz/records/bigjson2csv-0.1.zip?disableRedirect=true"
+	},
+	"template": "basic"
+}
